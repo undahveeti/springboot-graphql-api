@@ -1,6 +1,7 @@
 package com.avtran.lil.hplus.data;
 
 import javax.persistence.Entity;
+import javax.persistence.Table;
 import javax.persistence.Id;
 import javax.persistence.Column;
 import javax.persistence.GeneratedValue;
